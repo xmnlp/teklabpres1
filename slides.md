@@ -42,8 +42,13 @@ AWS -> Lambda -> SAM -> AWS-Toolkit-Plugin
 
 # Demo
 
+---
 
+## Mer info:
 
+* https://www.youtube.com/watch?v=xbbkNVr27Is
+
+* https://aws.amazon.com/intellij/
 
 
 
