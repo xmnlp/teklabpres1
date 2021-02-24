@@ -27,8 +27,8 @@ AWS -> Lambda -> SAM -> AWS-Toolkit-Plugin
 
 ---
 
+<!-- .slide: style="text-align: center;"> -->
 ## AWS Toolkit - Intellij
-<!-- .slide: style="text-align: left;"> -->
 
 
 
