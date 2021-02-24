@@ -30,7 +30,8 @@ AWS -> Lambda -> SAM -> AWS-Toolkit-Plugin
 <!-- .slide: style="text-align: center;"> -->
 ## AWS Toolkit - Intellij
 
-
+* Integrerar mot AWS
+* Wrappar SAM CLI
 
 ---
 
