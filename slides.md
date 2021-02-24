@@ -27,16 +27,10 @@ AWS -> Lambda -> SAM -> AWS-Toolkit-Plugin
 
 ---
 
-## AWS Toolkit
+## AWS Toolkit - Intellij
 <!-- .slide: style="text-align: left;"> -->
 
-<figure>
-  <img src="img_1.png" alt="my alt text" height="160" width="221"/>
-</figure>
 
-* https://www.youtube.com/watch?v=xbbkNVr27Is
-
-* https://aws.amazon.com/intellij/
 
 ---
 
