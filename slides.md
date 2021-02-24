@@ -6,7 +6,7 @@ AWS -> Lambda -> SAM -> AWS-Toolkit-Plugin
 
 ## AWS - Lambda
 <!-- .slide: style="text-align: left;"> -->
-- Kortlivade. Stateless <!-- .element: class="fragment" data-fragment-index="1" -->
+- Kortlivade & Stateless <!-- .element: class="fragment" data-fragment-index="1" -->
 - Java, Python, JS, etc .. <!-- .element: class="fragment" data-fragment-index="2" -->
 - Triggas av event. T.ex. http anrop.<!-- .element: class="fragment" data-fragment-index="3" -->
 
